@@ -24,7 +24,7 @@
 				<div class="form-row">
 					<label> Password : </label>
 					<input type="password" name="password">
-				</div>
+				</div>	
 				<div class="form-row"	>
 					<button type="submit">Submit</button>
 				</div>
